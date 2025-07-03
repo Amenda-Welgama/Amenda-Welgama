@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Amenda Welgama.</h1>
 
-![Amenda](https://github.com/<your-username>/<repo-name>/raw/main/Amenda.png)
+<div align="center">
+  <img src="./Amenda.png" alt="Amenda" width="200"/>
+</div>
+
   
 
 <h3 align="center">Computer Science Undergraduate from Srilanka</h3>
@@ -21,7 +24,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/welgamage amenda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="welgamage amenda" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Welagamage Amenda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="welgamage amenda" height="30" width="40" /></a>
 <a href="https://discord.gg/amendawelgama._77386" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="amendawelgama._77386" height="30" width="40" /></a>
 </p>
 
